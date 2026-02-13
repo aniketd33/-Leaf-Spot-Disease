@@ -8,8 +8,8 @@ This system detects plant diseases from leaf images, evaluates severity, and pro
 
 ## 🚀 Live Demo  
 
-🔗 Streamlit App: https://leaf-diseases-detect5.streamlit.app  
-🔗 Backend API (Vercel): https://leaf-diseases-detect.vercel.app  
+🔗 Streamlit App:<img width="956" height="411" alt="image" src="https://github.com/user-attachments/assets/48cc35ff-7bb4-4164-ade8-2d6b5da43e31" />
+
 
 ---
 
