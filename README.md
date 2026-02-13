@@ -84,7 +84,7 @@ Leaf-Disease-Detection/
 
 ## 1️⃣ Clone Repository  
 
-```bash
+
 git clone https://github.com/aniketd33/Leaf-Disease-Detection.git
 cd Leaf-Disease-Detection
 2️⃣ Create Virtual Environment
