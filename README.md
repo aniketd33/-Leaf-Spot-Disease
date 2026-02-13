@@ -1,16 +1,11 @@
 # 🌿 Leaf Disease Detection System
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.116.1-009688.svg?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg?style=flat&logo=streamlit)](https://streamlit.io/)
-[![Python](https://img.shields.io/badge/Python-3.8+-3776ab.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Groq](https://img.shields.io/badge/Groq-AI%20Powered-orange.svg?style=flat)](https://groq.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](LICENSE)
-
 An enterprise-grade AI-powered leaf disease detection system featuring a dual-interface architecture: a FastAPI backend service and an interactive Streamlit web application. Built with Meta's Llama Vision models via Groq API, this system provides accurate disease identification, severity assessment, and actionable treatment recommendations for agricultural and horticultural applications.
 
 ## System Demo
 
-![Leaf Disease Detection Demo](https://github.com/shukur-alom/leaf-diseases-detect/blob/main/Media/video.gif)
+![Leaf Disease Detection Demo](<img width="956" height="411" alt="image" src="https://github.com/user-attachments/assets/7f607630-8674-48af-8b81-b08c51ed44a7" />
+)
 
 *Experience the power of AI-driven plant health analysis in action*
 
@@ -421,13 +416,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **Streamlit**: Interactive web application framework
 - **Python Ecosystem**: NumPy, Pillow, and other supporting libraries
 
-## 📞 Support & Community
-
-### Getting Help
-- **📚 Documentation**: Complete guides in this README
-- **🐛 Bug Reports**: [GitHub Issues](https://github.com/shukur-alom/leaf-diseases-detect/issues)
-- **💡 Feature Requests**: [GitHub Discussions](https://github.com/shukur-alom/leaf-diseases-detect/discussions)
-- **👥 Community**: Join our developer community for collaboration
 
 ### Professional Support
 - **Commercial Licensing**: Contact for enterprise deployment options
@@ -436,8 +424,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **Technical Support**: Priority support packages for production deployments
 
 ### Contact Information
-- **Project Maintainer**: [@shukur-alom](https://github.com/shukur-alom)
-- **Project Repository**: [leaf-diseases-detect](https://github.com/shukur-alom/leaf-diseases-detect)
+- **Project Maintainer**: [@shukur-alom](https://github.com/aniketd33)
+- **Project Repository**: [leaf-diseases-detect]<img width="956" height="411" alt="image" src="https://github.com/user-attachments/assets/9ac634cc-0d37-4b4e-922b-576a9dbaf6fa" />
+)
 - **Issue Tracking**: GitHub Issues for bug reports and feature requests
 - **Email Support**: Available through GitHub contact options
 
@@ -453,10 +442,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - [Groq API Documentation](https://console.groq.com/docs) - AI inference platform
 - [Meta Llama Models](https://ai.meta.com/llama/) - Vision-language models
 
-### Open Source Projects
-- [Plant Disease Detection Models](https://github.com/topics/plant-disease-detection)
-- [Agricultural AI Tools](https://github.com/topics/precision-agriculture)
-- [Computer Vision Agriculture](https://github.com/topics/computer-vision-agriculture)
 
 ## ⚡ Performance & Scalability
 
